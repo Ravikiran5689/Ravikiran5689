@@ -2,7 +2,7 @@
 # <p align="center">Hi there 👋, I'm Kalluru Ravi Kiran</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=913CE7&center=true&vCenter=true&width=430&lines=RTL+Design+%26+Design+Verification+Engineer;VLSI+Enthusiast;Digital+Circuit+Designer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=913CE7&center=true&vCenter=true&width=430&lines=RTL+%26+Design+Verification+Engineer;VLSI+Enthusiast;Digital+Circuit+Designer" alt="Typing SVG">
 </p>
 
 ---
