@@ -1,6 +1,6 @@
 <!-- 🌌 Dark Futuristic Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,0A0A0A&height=180&section=header&text=Kalluru+Ravi+Kiran+%7C+VLSI+Design+Engineer&fontSize=40&animation=twinkling&fontColor=00FFFF" alt="Banner"/>
+  <img src="banner1.png" alt="Banner"/>
 </p>
 
 <!-- 🧑 Profile Image -->
