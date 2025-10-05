@@ -1,4 +1,8 @@
 <!-- 🌟 Futuristic Gradient Banner -->
+<p align="center">
+  <img src="banner1.png" alt="Banner" width="1000">
+</p>
+
 
 <!-- 🧑 Profile Image -->
 <p align="center">
