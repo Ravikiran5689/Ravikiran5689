@@ -11,7 +11,7 @@
 
 <!-- ⚡ Header -->
 <h1 align="center">
-  <img src="typing.png" alt="Typing SVG" />
+  <img src="typing1.png" alt="Typing SVG" />
 </h1>
 
 ---
