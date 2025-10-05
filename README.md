@@ -1,15 +1,14 @@
-<!-- 🌟 Futuristic Gradient Banner -->
+<!-- 🌌 Dark Futuristic Gradient Banner -->
 <p align="center">
-  <img src="banner1.png" alt="Banner" width="1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,0A0A0A&height=180&section=header&text=Kalluru+Ravi+Kiran+%7C+VLSI+Design+Engineer&fontSize=40&animation=twinkling&fontColor=00FFFF" alt="Banner"/>
 </p>
-
 
 <!-- 🧑 Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/RaviKiran5689" width="150" height="150" style="border-radius:50%; border: 2px solid #00ffff;" alt="Kalluru Ravi Kiran"/>
+  <img src="https://avatars.githubusercontent.com/RaviKiran5689" width="150" height="150" style="border-radius:50%; border: 3px solid #00FFFF;" alt="Kalluru Ravi Kiran"/>
 </p>
 
-<!-- ⚡ Header -->
+<!-- ⚡ Typing Effect Header -->
 <h1 align="center">
   <img src="typing1.png" alt="Typing SVG" />
 </h1>
@@ -18,7 +17,7 @@
 
 <!-- 🌌 Gradient Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,000000&height=60&section=header"/>
 </p>
 
 ## 🧠 About Me  
@@ -50,11 +49,11 @@
 
 | 🧠 Project | 📘 Description |
 |------------|----------------|
-| **UART – RTL Design (Verilog)** | Designed UART Tx/Rx modules with full-duplex simulation and protocol compliance. |
-| **APB → AHB Bridge (UVM)** | Built UVM-based testbench for protocol conversion, achieving high functional coverage. |
-| **Router Verification (UVM)** | Verified router with assertions, scoreboards, and 96% functional coverage. |
-| **Router Design (Verilog)** | Implemented packet-switching logic, FIFO buffering, and latency reduction. |
-| **Up–Down Counter (Verification)** | 100% assertion coverage achieved using self-checking testbench. |
+| **UART – RTL Design (Verilog)** | Full-duplex UART Tx/Rx with protocol-compliant simulation. |
+| **APB → AHB Bridge (UVM)** | UVM-based protocol conversion testbench with high coverage. |
+| **Router Verification (UVM)** | Verified router with assertions, scoreboards; 96% functional coverage. |
+| **Router Design (Verilog)** | Packet-switching logic, FIFO buffering, latency reduction. |
+| **Up–Down Counter (Verification)** | Self-checking testbench, 100% assertion coverage. |
 
 ---
 
@@ -109,6 +108,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF,0D0D0D&height=100&section=footer"/>
 </p>
-
