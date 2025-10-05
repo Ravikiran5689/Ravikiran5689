@@ -1,7 +1,7 @@
 <!-- ⚡ Typing Effect Header -->
-<h1 align="center">
-  <img src="typing2.png" alt="Typing SVG" />
-</h1>
+# <p align="center">Hi there 👋, I'm Kalluru Ravi Kiran</p>
+
+### <p align="center">| RTL Design & Design Verification Engineer | VLSI Enthusiast |</p>
 
 ---
 
