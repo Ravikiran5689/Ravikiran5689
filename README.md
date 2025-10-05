@@ -1,6 +1,6 @@
 <!-- ⚡ Typing Effect Header -->
 <h1 align="center">
-  <img src="typing2" alt="Typing SVG" />
+  <img src="typing2.png" alt="Typing SVG" />
 </h1>
 
 ---
