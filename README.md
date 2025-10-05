@@ -1,6 +1,6 @@
 <!-- ⚡ Typing Effect Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFFF&center=true&lines= Hi,+I+am+RTL+and+Design+Verification+Engineer " alt="Typing SVG" />
+  <img src="typing2" alt="Typing SVG" />
 </h1>
 
 ---
