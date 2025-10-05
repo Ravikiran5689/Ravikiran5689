@@ -1,16 +1,6 @@
-<!-- 🌌 Dark Futuristic Gradient Banner -->
-<p align="center">
-  <img src="banner1.png" alt="Banner"/>
-</p>
-
-<!-- 🧑 Profile Image -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/RaviKiran5689" width="150" height="150" style="border-radius:50%; border: 3px solid #00FFFF;" alt="Kalluru Ravi Kiran"/>
-</p>
-
 <!-- ⚡ Typing Effect Header -->
 <h1 align="center">
-  <img src="typing1.png" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFFF&center=true&lines= Hi,+I+am+RTL+and+Design+Verification+Engineer " alt="Typing SVG" />
 </h1>
 
 ---
