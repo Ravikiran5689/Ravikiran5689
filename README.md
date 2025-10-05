@@ -104,9 +104,6 @@ Verification                █████████████████�
 
 ---
 
-![SystemVerilog](https://img.shields.io/badge/Learning-SystemVerilog-blue?style=for-the-badge)
-![UVM](https://img.shields.io/badge/Learning-UVM-red?style=for-the-badge)
-![Python](https://img.shields.io/badge/Learning-Python-yellow?style=for-the-badge)
 
 
 ## 🎯 My Goals  
