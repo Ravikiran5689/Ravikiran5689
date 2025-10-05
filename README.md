@@ -10,7 +10,7 @@
 
 <!-- ⚡ Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Kalluru+Ravi+Kiran;VLSI+Design+Verification+Engineer;RTL+Design+%7C+SystemVerilog+%7C+UVM;Welcome+to+my+Tech+Universe!+🚀" alt="Typing SVG" />
+  <img src="Blue Dark Blue Gradients Corporate Linkedin Bannern (3).png" alt="Typing SVG" />
 </h1>
 
 ---
