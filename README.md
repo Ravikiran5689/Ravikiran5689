@@ -10,7 +10,7 @@
 
 <!-- ⚡ Header -->
 <h1 align="center">
-  <img src="Blue Dark Blue Gradients Corporate Linkedin Bannern (3).png" alt="Typing SVG" />
+  <img src="typing.png" alt="Typing SVG" />
 </h1>
 
 ---
