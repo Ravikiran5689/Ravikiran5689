@@ -51,15 +51,15 @@
   <img src="https://img.shields.io/badge/QuestaSim-darkblue?style=for-the-badge"/>
 </p>
 
-Verilog        ████████████████████████ 95%
+Verilog                     ████████████████████████ 95%
 
-SystemVerilog  ██████████████████████   90%
+SystemVerilog               ██████████████████████   90%
 
-UVM            ██████████████████████   90%
+UVM                         ██████████████████████   90%
 
-VLSI Design    ████████████████████     85%
+VLSI Design                 ████████████████████     85%
 
-Verification   ████████████████████     85%
+Verification                ████████████████████     85%
 
 ---
 
