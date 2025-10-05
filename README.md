@@ -1,7 +1,4 @@
 <!-- 🌟 Futuristic Gradient Banner -->
-<p align="center">
-  <img src="banner.png" alt="Kalluru Ravi Kiran | VLSI Design Engineer" width="1000"/>
-</p>
 
 <!-- 🧑 Profile Image -->
 <p align="center">
